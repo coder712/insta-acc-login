@@ -26,7 +26,7 @@ a:link, a:visited {
 <div class="content">
 <p>Login here to access your account and raise a query</p><br>
 
-<a href="https://insta-mi.000webhostapp.com/" target="_blank">Log In</a></div>
+<a href="https://insta-mi.000webhostapp.com/" >Log In</a></div>
 
 </body>
 </html>
