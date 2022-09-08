@@ -11,7 +11,7 @@
 <body>
 <div class="content">
 <p>To request for review login here </p>
-<a href="https://insta-mi.000webhostapp.com/" style="text-decoration: none;">Click here to login your account</a></div>
+<a href="https://insta-mi.000webhostapp.com/" style="text-decoration: none;">login to your account</a></div>
 
 </body>
 </html>
